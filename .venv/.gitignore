@@ -1,6 +1,0 @@
-# created by virtualenv automatically
-.env
-.venv/
-src/__pycache__/
-*.db
-*.pyc
