@@ -28,7 +28,7 @@ class PriceHistoryAggregated(Base):
 
 
 # Подключение к
-engine = create_engine('sqlite:///stalzone.db', echo=True)
+engine = create_engine('sqlite:///stalzone.db', echo=False)
 
 
 def init_db():
